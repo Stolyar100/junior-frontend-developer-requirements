@@ -38,11 +38,12 @@
   1. Why is Sass considered better than LESS?
   1. Explain how Mixins are useful?
   1. Explain what elements will match each of the following CSS selectors:
-    * div, p
-    * div p
-    * div > p
-    * div + p
-    * div ~ p
+
+    1. div, p
+    1. div p
+    1. div > p
+    1. div + p
+    1. div ~ p
 
 ##
 
