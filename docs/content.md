@@ -1,6 +1,6 @@
 # Inventorsoft Junior Frontend (Vue.js) Developer Requirements
 
-- ## HTML
+## HTML
   1. What are HTML Tags? Do all HTML tags have an end tag?
   1. What is an HTML Attribute?
   1. How to use JavaScript along with HTML?
@@ -14,7 +14,7 @@
   1. What is Virtual DOM?
   1. Knowledge of all html tags required.
 
-- ## CSS
+## CSS
   1. Difference between #my and .my?
   1. Difference between margin and padding?
   1. Which property will be used for changing the face of a font in CSS?
@@ -43,5 +43,7 @@
     * div > p
     * div + p
     * div ~ p
+
+##
 
 
